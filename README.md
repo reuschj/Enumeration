@@ -4,17 +4,17 @@ A JavaScript class to hold enumerated cases and values
 ## Installation
 Install the module with NPM:
 
-`$ npm i --save enumeration-js`
+`$ npm i --save enumeration-class-js`
 
 Import `Enumeration` into your project.
 
 ```
-const { Enumeration } = require('enumeration-js');
+const { Enumeration } = require('enumeration-class-js');
 ```
 or
 
 ```
-import { Enumeration } from ('enumeration-js');
+import { Enumeration } from ('enumeration-class-js');
 ```
 
 ## Creating a New Enumeration

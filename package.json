@@ -1,6 +1,6 @@
 {
-  "name": "enumeration-js",
-  "version": "1.0.0",
+  "name": "enumeration-class-js",
+  "version": "1.0.1",
   "description": "A JavaScript class to hold enumerated cases and values",
   "main": "index.js",
   "scripts": {

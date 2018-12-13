@@ -20,7 +20,7 @@ class Enumeration {
         }
         if (enumCases instanceof Array) {
             // If an array is passes to enumCases param, we will assign auto raw values based on autoRawValueType and startingAt parms
-            let counter = typeof startingAt === 'number' ? parseInt(Math.abs(startingAt)) : 0;
+            let counter = typeof startingAt === 'number' ? parseInt(startingAt) : 0;
             let getRawValue;
             switch (autoRawValueType) {
                 // If type 'string' is specified, we will assign a raw value that matches the enum case.
