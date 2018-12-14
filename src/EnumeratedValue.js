@@ -9,7 +9,7 @@ class EnumeratedValue {
      * @constructor
      * @param {string} enumeratedCase
      * @param {*} rawValue
-     * @return {Readonly<EnumeratedValue>}
+     * @return {EnumeratedValue}
      */
     constructor(enumeratedCase, rawValue) {
         this.enumeratedCase = enumeratedCase;

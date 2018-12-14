@@ -12,7 +12,7 @@ class Enumeration {
      * @param {Array|Object} enumCases
      * @param {string} autoRawValueType
      * @param {number} startingAt
-     * @return {Readonly<Enumeration>}
+     * @return {Enumeration}
      */
     constructor(enumCases, autoRawValueType = 'number', startingAt = 0) {
         if (typeof enumCases !== 'object') {
