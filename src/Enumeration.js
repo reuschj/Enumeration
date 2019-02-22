@@ -37,7 +37,7 @@ class Enumeration {
    */
   _validateEnumCases(enumCases) {
     if (typeof enumCases !== 'object') {
-      throw new Error(`A ${this.constructor.name} must be initialized with an object or array.`);
+      throw new Error('An Enumeration must be initialized with an object or array.');
     }
   }
 
