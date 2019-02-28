@@ -1,6 +1,6 @@
 {
   "name": "enumeration-class-js",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A JavaScript class to hold enumerated cases and values",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gecgithub01.walmart.com/jreusch/Enumeration.git"
+    "url": "git+https://github.com/reuschj/Enumeration.git"
   },
   "keywords": [
     "JavaScript",
@@ -19,7 +19,7 @@
   "author": "Justin Reusch",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://gecgithub01.walmart.com/jreusch/Enumeration/issues"
+    "url": "https://github.com/reuschj/Enumeration/issues"
   },
-  "homepage": "https://gecgithub01.walmart.com/jreusch/Enumeration#readme"
+  "homepage": "https://github.com/reuschj/Enumeration#readme"
 }
